@@ -1,0 +1,4 @@
+#Fri Jan 27 17:33:43 CET 2023
+base.0=C\:\\Users\\wikto\\source\\repos\\Android_Studio\\BluetoothLeGatt\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-54:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\130ea05c81d183733e8c62007f5d7dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\56261b41c5385a18bb4caf6e51201178\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b7afc4c2ff36a441954503a351fb2274\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d0aa84f7c6f58313adb6c92d7105240e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\da17711d44dedc5538cd9a5cf9466833\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\6bbe214846bf4f99ca8893c136435ce0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\a16c0b6e3e32d97081065872091b8162\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\402a4d0d8e2194ce56d04d278c2bf741\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\077ba55540e8fdc2d528516b0513b3e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\029a45213a5b27cfd4687bf95e782505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\4b09a0561a1516637901a0a318f3841f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9877ae8957f88913a289f0a821ac366a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\910c6dd720b1c80eae6f48ad05455e4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\317a2325d00272df626bb3881d2443b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\078870ca4eb06894f0e28e5c47472b28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\50e172e6e752fa242aeb37f455154600\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\1f57819ea9c2a0006e38daaff8050c99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\8071a72f22874eb0450019d7a2b4373e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\15e5b2966cd3ba7515fcef252ab729a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\ee050665e5aa5eaa4ff99fd12c66ad9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59311e0a39034ba9f0e3a96fe77c878c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\7c065d7ad98a5e9892315917821c420f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\954d439355223280c4a5da274b828367\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\96d5644c7854f3a1070e329eb865167f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b3dc4f2c0fa63c4c43256cd29665b0b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\5af51ab77ef373d01e61c2e9bd41197c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\c7f8d803f86ba5d86368aa7576c6e6db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9fbdea579bee60194993070a905634e6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9c5858bddef65e752b055a711b3e0bed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59fb51bfee87f3e769dd52f4a8329aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\3ede664aa533f451a05f91e918c90c32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d1cdd22f48223710a23d08d80922a954\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-54:12
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-54:12
+	package
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.CONNECT
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:22-78
+application
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:39:5-52:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b7afc4c2ff36a441954503a351fb2274\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b7afc4c2ff36a441954503a351fb2274\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\7c065d7ad98a5e9892315917821c420f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\7c065d7ad98a5e9892315917821c420f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:39:18-50
+	android:icon
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:41:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:9-48:20
+	android:label
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:9-58
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:19-56
+activity#com.example.android.bluetoothlegatt.MainActivity
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:50:9-49
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:50:19-47
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:9-77
+	android:enabled
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:53-75
+	android:name
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:18-52
+uses-sdk
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\130ea05c81d183733e8c62007f5d7dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\130ea05c81d183733e8c62007f5d7dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\56261b41c5385a18bb4caf6e51201178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\56261b41c5385a18bb4caf6e51201178\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b7afc4c2ff36a441954503a351fb2274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b7afc4c2ff36a441954503a351fb2274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d0aa84f7c6f58313adb6c92d7105240e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d0aa84f7c6f58313adb6c92d7105240e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\da17711d44dedc5538cd9a5cf9466833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\da17711d44dedc5538cd9a5cf9466833\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\6bbe214846bf4f99ca8893c136435ce0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\6bbe214846bf4f99ca8893c136435ce0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\a16c0b6e3e32d97081065872091b8162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\a16c0b6e3e32d97081065872091b8162\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\402a4d0d8e2194ce56d04d278c2bf741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\402a4d0d8e2194ce56d04d278c2bf741\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\077ba55540e8fdc2d528516b0513b3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\077ba55540e8fdc2d528516b0513b3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\029a45213a5b27cfd4687bf95e782505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\029a45213a5b27cfd4687bf95e782505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\4b09a0561a1516637901a0a318f3841f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\4b09a0561a1516637901a0a318f3841f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9877ae8957f88913a289f0a821ac366a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9877ae8957f88913a289f0a821ac366a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\910c6dd720b1c80eae6f48ad05455e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\910c6dd720b1c80eae6f48ad05455e4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\317a2325d00272df626bb3881d2443b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\317a2325d00272df626bb3881d2443b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\078870ca4eb06894f0e28e5c47472b28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\078870ca4eb06894f0e28e5c47472b28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\50e172e6e752fa242aeb37f455154600\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\50e172e6e752fa242aeb37f455154600\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\1f57819ea9c2a0006e38daaff8050c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\1f57819ea9c2a0006e38daaff8050c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\8071a72f22874eb0450019d7a2b4373e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\8071a72f22874eb0450019d7a2b4373e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\15e5b2966cd3ba7515fcef252ab729a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\15e5b2966cd3ba7515fcef252ab729a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\ee050665e5aa5eaa4ff99fd12c66ad9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\ee050665e5aa5eaa4ff99fd12c66ad9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59311e0a39034ba9f0e3a96fe77c878c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59311e0a39034ba9f0e3a96fe77c878c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\10449df49d825a195a22cdc5adbb8a60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\7c065d7ad98a5e9892315917821c420f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\7c065d7ad98a5e9892315917821c420f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\954d439355223280c4a5da274b828367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\954d439355223280c4a5da274b828367\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\96d5644c7854f3a1070e329eb865167f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\96d5644c7854f3a1070e329eb865167f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b3dc4f2c0fa63c4c43256cd29665b0b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\b3dc4f2c0fa63c4c43256cd29665b0b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\5af51ab77ef373d01e61c2e9bd41197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\5af51ab77ef373d01e61c2e9bd41197c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\c7f8d803f86ba5d86368aa7576c6e6db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\c7f8d803f86ba5d86368aa7576c6e6db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9fbdea579bee60194993070a905634e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9fbdea579bee60194993070a905634e6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9c5858bddef65e752b055a711b3e0bed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\9c5858bddef65e752b055a711b3e0bed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59fb51bfee87f3e769dd52f4a8329aaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\59fb51bfee87f3e769dd52f4a8329aaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\3ede664aa533f451a05f91e918c90c32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\3ede664aa533f451a05f91e918c90c32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d1cdd22f48223710a23d08d80922a954\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wikto\.gradle\caches\transforms-2\files-2.1\d1cdd22f48223710a23d08d80922a954\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wikto\source\repos\Android_Studio\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
